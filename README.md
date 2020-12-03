@@ -4,11 +4,12 @@
 [![license](https://img.shields.io/npm/l/use-local-credential-storage?style=flat-square)][npm]
 
 React hook for storing and retrieving login credentials for a web app using
-[window.localStorage][localStorage]. Works well with Create React App /
-Gatsby / JAMstack.
+[window.localStorage][localStorage].
+
+Works well with Create React App / Gatsby / JAMstack or any kind of app which
+needs to authenticate requests to some kind of API.
 
 [localStorage]: https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage
-
 [npm]: https://npmjs.com/use-local-credential-storage/
 
 ## Usage
