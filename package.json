@@ -31,7 +31,10 @@
   },
   "name": "use-local-credential-storage",
   "description": "React hook for storing and retrieving login credentials for a web app using localStorage",
-  "keywords": ["localstorage", "credentials"],
+  "keywords": [
+    "localstorage",
+    "credentials"
+  ],
   "author": "Metabolize",
   "module": "dist/use-local-credential-storage.esm.js",
   "size-limit": [
